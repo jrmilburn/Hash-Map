@@ -1,0 +1,21 @@
+{
+  "name": "hash-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hashmap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrmilburn/Hash-Map.git"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrmilburn/Hash-Map/issues"
+  },
+  "homepage": "https://github.com/jrmilburn/Hash-Map#readme"
+}
